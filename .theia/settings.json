@@ -3,6 +3,7 @@
         "**/.classpath": true,
         "**/.project": true,
         "**/.settings": true,
+        "**/*.class": true,
         "**/.factorypath": true
     }
 }
