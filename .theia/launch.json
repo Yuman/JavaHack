@@ -3,32 +3,11 @@
   // Hover to view descriptions of existing attributes.
   "version": "0.2.0",
   "configurations": [
-    {
-      "type": "java",
-      "name": "Debug (Launch) - Current File",
-      "request": "launch",
-      "mainClass": "${file}"
-    },
-    {
-      "type": "java",
-      "name": "Debug (Launch)-Day15of30<JavaHack_e6d11f2c>",
-      "request": "launch",
-      "mainClass": "Day15of30",
-      "projectName": "JavaHack_e6d11f2c"
-    },
-    {
-      "type": "java",
-      "name": "Debug (Launch)-Day5of30<JavaHack_e6d11f2c>",
-      "request": "launch",
-      "mainClass": "Day5of30",
-      "projectName": "JavaHack_e6d11f2c"
-    },
-    {
-      "type": "java",
-      "name": "Debug (Launch)-Main<JavaHack_e6d11f2c>",
-      "request": "launch",
-      "mainClass": "Main",
-      "projectName": "JavaHack_e6d11f2c"
-    }
+      {
+          "type": "java",
+          "name": "Debug (Launch) - Current File",
+          "request": "launch",
+          "mainClass": "${file}"
+      }
   ]
 }

@@ -1,6 +1,7 @@
 class Main {
   public static void main(String[] args) {
     System.out.println("Hello world!");
-    Day5of30.main(new String[0]);
+    String msg = "I just got started";
+    System.out.println(msg);   
   }
 }
