@@ -1,0 +1,2 @@
+get java code from
+https://github.com/mdeverdelhan/OCA-Java-SE-7-Programmer-I/tree/master/src/main/java/eu/verdelhan/ocajexam
