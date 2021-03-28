@@ -1,25 +1,11 @@
-import java.util.ArrayList;
+import challenge.PowerOfTwo;
 
 public class Main {
 
     public static void main(String[] args) {
 
-        // Creating the ArrayList
-        ArrayList<Float> fishLengthList = new ArrayList<Float>();
 
-        // Adding the floats
-        fishLengthList.add(10.0f);
-        fishLengthList.add(15.5f);
-        fishLengthList.add(18.0f);
-        fishLengthList.add(29.5f);
-        fishLengthList.add(45.5f);
-
-        // Printing out only the numbers larger than the required length
-        final float requiredLength = 28f;
-        for (Float length : fishLengthList) {
-            if (length >= requiredLength) {
-                System.out.println(length);
-            }
-        }
+        System.out.println(PowerOfTwo.powerOfTwo(1));
     }
+
 }
