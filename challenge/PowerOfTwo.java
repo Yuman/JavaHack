@@ -12,4 +12,9 @@ public class PowerOfTwo{
 		}
 		return false;
 	}
+
+  public static boolean powerOf2Binary(int N){
+    return Integer.toBinaryString(N).indexOf('1')==Integer.toBinaryString(N).lastIndexOf('1');
+  }
+
 }
