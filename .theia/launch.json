@@ -5,9 +5,9 @@
   "configurations": [
     {
         "type": "java",
-        "name": "CodeLens (Launch) - Main",
+        "name": "CodeLens (Launch) - Triples",
         "request": "launch",
-        "mainClass": "Main",
+        "mainClass": "dupe.Triples",
         "projectName": "JavaHack_e6d11f2c"
     },
     {
