@@ -6,7 +6,7 @@ public class Main {
 
 
         //System.out.println(PowerOfTwo.powerOfTwo(1));
-        System.out.println(PowerOfTwo.powerOf2Binary(4));
+        System.out.println(PowerOfTwo.powerOfTwo(4));
     }
 
 }
